@@ -24,10 +24,8 @@
                 <div align="center">
                     <a href=>
                         <img src="" alt="World Connect Gif" height="100%" />
-                        <a src="https://github.com/franklyncodes/"></a>
-
+                        <a src="https://github.com/franklyncodes/"/>
                         <p>
-
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
                             </a>
@@ -42,12 +40,10 @@
                         <p><strong>Technology Stack:</strong> GraphQL, Node, MongoDB, Express, React, Heroku,
                             Netlify,
                             Semantic UI
-
                 </div>
             </td>
         </tr>
         <tr>
-
             <td width="100%">
                 <h3 align="center" color="green">Earth Gems</h2>
                     <div align="center">
