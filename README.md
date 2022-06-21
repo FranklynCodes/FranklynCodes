@@ -34,6 +34,7 @@
                         <p>Social Media Application, users can create posts while liking and commenting to update in
                             real time.
                         </p>
+                        <p align="left"> Eiusmod velit proident labore in nulla. Sunt et veniam id anim aliquip cupidatat consequat ex quis laborum enim id velit. Pariatur aliqua id eu cillum irure in aliqua eiusmod nisi amet minim. Esse incididunt labore laboris aliqua ipsum nostrud in incididunt tempor nostrud labore aute non. Labore minim velit dolore laborum est est culpa veniam. </p>
                         <p><strong>Technology Stack:</strong> GraphQL, Node, MongoDB, Express, React, Heroku,
                             Netlify,
                             Semantic UI
