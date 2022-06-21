@@ -17,7 +17,7 @@
     <table>
         <tr>
             <td width="100%">
-                <h3 align="center" color="green"><b><u>World Connect</u></b></h3>
+                <h3 align="center" color="green"><b><u><b>World Connect</b></u></b></h3>
                 <div align="center">
                     <a href=>
                         <img src="" alt="World Connect Gif" height="100%" />
