@@ -15,22 +15,23 @@
 
 
 <h2 align="left">Repositories </h2>
+
 <div align="center">
     <table>
         <tr>
             <td width="100%">
-                <h3 align="center" color="green">World Connect</h2>
-                    <div align="center">
-                        <a href=>
-                            <img src="" alt="World Connect Gif" height="100%" />
-                            <a src="./"></a>
-                        </a>
+                <h3 align="center" color="green">World Connect</h3>
+                <div align="center">
+                    <a href=>
+                        <img src="" alt="World Connect Gif" height="100%" />
+                        <a src="https://github.com/franklyncodes/"></a>
+
                         <p>
 
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
                             </a>
-                            <a href="./" target="_blank">
+                            <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img
                                     src="https://img.shields.io/badge/-website-aqua?style=for-the-badge&color=800080" />
                             </a>
@@ -38,10 +39,11 @@
                         <p>Social Media Application, users can create posts while liking and commenting to update in
                             real time.
                         </p>
-                        <p><strong>Technology Stack:</strong> GraphQL, Node, MongoDB, Express, React, Heroku, Netlify,
+                        <p><strong>Technology Stack:</strong> GraphQL, Node, MongoDB, Express, React, Heroku,
+                            Netlify,
                             Semantic UI
-                        </p>
-                    </div>
+
+                </div>
             </td>
         </tr>
         <tr>
@@ -51,7 +53,7 @@
                     <div align="center">
                         <a href=>
                             <img src="" alt="Earth Gems Gif" height="100%" />
-                            <a src=" " />
+                            <a src="https://github.com/franklyncodes/"/>
                         </a>
                         <br>
                         <br>
@@ -59,7 +61,7 @@
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
                             </a>
-                            <a href=" " target="_blank">
+                            <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img
                                     src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
                             </a>
@@ -76,7 +78,7 @@
                     <div align="center">
                         <a href=>
                             <img src="" alt="Tech Center Gif" height="100%" />
-                            <a src=" " />
+                            <a src="https://github.com/franklyncodes/" />
                         </a>
                         <br>
                         <br>
@@ -84,7 +86,7 @@
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
                             </a>
-                            <a href=" " target="_blank">
+                            <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img
                                     src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
                             </a>
