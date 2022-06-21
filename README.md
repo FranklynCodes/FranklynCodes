@@ -1,13 +1,10 @@
 <h1>Hello! My name is Franklyn</h1>
-<hr />
-<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nihil rerum pariatur. Repellat saepe similique illo
-    illum amet officiis tempore ipsum! Ea vel beatae debitis laboriosam error ex laudantium eaque!</p>
-<i>Portfolio Github Repositories on Readme Below </i>
-<hr>
-<h2>Portfolio</h2> <a href="www.franklyncodes.com" alt="Franklyn Codes Website">www.franklyncodes.com</a>
+<p> l am looking for a full time full stack software engineering position. Preferably in the Microsoft Azure network but l am open to technology jobs.</p>
+<p>Currently studying for the <b>Microsoft Azure Data Fundamentals (DP-900)</b>, <b>Azure Developer Associate (AZ-204)</b> certificates and the <b>Apollo Graph Developer - Associate</b> certification.</p>
+<h2>Portfolio</h2> <a href="www.franklyncodes.com" alt="Franklyn Codes Website"><u>www.franklyncodes.com</u></a>
 <br />
 
-<h2>Connect with me here 📧</h2>
+<h2>Let's Connect!</h2>
 <a href="https://www.linkedin.com/in/franklyncodes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -20,7 +17,7 @@
     <table>
         <tr>
             <td width="100%">
-                <h3 align="center" color="green">World Connect</h3>
+                <h3 align="center" color="green"><b><u>World Connect</u></b></h3>
                 <div align="center">
                     <a href=>
                         <img src="" alt="World Connect Gif" height="100%" />
@@ -45,7 +42,7 @@
         </tr>
         <tr>
             <td width="100%">
-                <h3 align="center" color="green">Earth Gems</h2>
+                <h3 align="center" color="green"><b><u>Earth Gems</u></b></h2>
                     <div align="center">
                         <a href=>
                             <img src="" alt="Earth Gems Gif" height="100%" />
@@ -70,7 +67,7 @@
         </tr>
         <tr>
             <td width="100%">
-                <h3 align="center" color="green">Tech Center</h2>
+                <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
                         <a href=>
                             <img src="" alt="Tech Center Gif" height="100%" />
