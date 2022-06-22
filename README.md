@@ -73,8 +73,6 @@
                     <div align="center">
                         <a href="https://imgur.com/b913RZ1"><img src="https://i.imgur.com/b913RZ1.gif" height="100%"
                                 title="Tech Center" alt="Tech Center could be broken" /></a>
-                        <br>
-                        <br>
                         <p>
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
