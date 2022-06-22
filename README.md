@@ -23,7 +23,7 @@
                 <h3 align="center" color="green"><b><u>World Connect</u></b></h3>
                 <div align="center">
                     <a href="https://imgur.com/Myu3VhC"><img src="https://i.imgur.com/Myu3VhC.gif" height="100%"
-                            title="World Connect" alt="World Connect Gif could be broken" /></a>
+                            title="World Connect" alt="World Connect gif link could be broken " /></a>
                     <p>
                         <a href="https://github.com/franklyncodes/" target="_blank">
                             <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
@@ -51,7 +51,7 @@
                 <h3 align="center" color="green"><b><u>Earth Gems</u></b></h2>
                     <div align="center">
                         <a href="https://imgur.com/knUCV4W"><img src="https://i.imgur.com/knUCV4W.gif" height="100%"
-                                title="Earth Gems" alt="Earth Gems could be broken" /></a>
+                                title="Earth Gems" alt="Earth Gems gif link could be broken" /></a>
                         <p>
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
@@ -71,7 +71,7 @@
             <td width="100%">
                 <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
-<a href="https://imgur.com/b913RZ1"><img src="https://i.imgur.com/b913RZ1.gif" title="source: imgur.com" /></a>
+                        <a href="https://imgur.com/JpUW9Dw" target="_blank"><img src="https://imgur.com/JpUW9Dw.gif" title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
                         <p>
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
