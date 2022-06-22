@@ -70,7 +70,7 @@
                 <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
                         <a href=>
-                            <img src="" alt="Tech Center Gif" height="100%" />
+                            <img src="https://imgur.com/CYZktLX" alt="Tech Center Gif" height="100%" />
                             <a src="https://github.com/franklyncodes/" />
                         </a>
                         <br>
