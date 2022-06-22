@@ -71,7 +71,7 @@
             <td width="100%">
                 <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
-                        <a href="https://imgur.com/JpUW9Dw" target="_blank"><img src="https://imgur.com/JpUW9Dw.gif" title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
+                        <a href="https://imgur.com/6rRU4dZ" target="_blank"><img src="https://imgur.com/6rRU4dZ.gif" title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
                         <p>
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
