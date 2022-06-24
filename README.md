@@ -32,6 +32,7 @@
                             <img src="https://img.shields.io/badge/-website-aqua?style=for-the-badge&color=800080" />
                         </a>
                     </p>
+                    <img src ="https://api.netlify.com/api/v1/badges/afe4370c-a7b6-4f00-8ddd-3aa23dff2bf5/deploy-status" alt ="Social Media" />
                     <p>Social Media Application, users can create posts while liking and commenting to update in
                         real time.
                     </p>
@@ -61,6 +62,8 @@
                                     src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
                             </a>
                         </p>
+                        <img
+                            src="https://api.netlify.com/api/v1/badges/8c40f4da-ff0b-4f54-8902-18aea6b47094/deploy-status" alt = "Earth Gems Deployment Status"/>
                         <p> Applied Stripe and Commerce api to bridge payments and merchandise functions for
                             e-commerce. </p>
                         <p><strong>Technology Stack:</strong> Stripe.js, Commerce.js, React, Material UI,
@@ -71,7 +74,8 @@
             <td width="100%">
                 <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
-                        <a href="https://imgur.com/6rRU4dZ" target="_blank"><img src="https://imgur.com/6rRU4dZ.gif" title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
+                        <a href="https://imgur.com/6rRU4dZ" target="_blank"><img src="https://imgur.com/6rRU4dZ.gif"
+                                title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
                         <p>
                             <a href="https://github.com/franklyncodes/" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
