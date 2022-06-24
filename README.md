@@ -32,15 +32,11 @@
                             <img src="https://img.shields.io/badge/-website-aqua?style=for-the-badge&color=800080" />
                         </a>
                     </p>
-                    <img src ="https://api.netlify.com/api/v1/badges/afe4370c-a7b6-4f00-8ddd-3aa23dff2bf5/deploy-status" alt ="Social Media" />
+                    <!-- <img src ="https://api.netlify.com/api/v1/badges/afe4370c-a7b6-4f00-8ddd-3aa23dff2bf5/deploy-status" alt ="Social Media" /> -->
                     <p>Social Media Application, users can create posts while liking and commenting to update in
                         real time.
                     </p>
-                    <p align="left"> Lorem Eiusmod velit proident labore in nulla. Sunt et veniam id anim aliquip
-                        cupidatat consequat ex quis laborum enim id velit. Pariatur aliqua id eu cillum irure in
-                        aliqua eiusmod nisi amet minim. Esse incididunt labore laboris aliqua ipsum nostrud in
-                        incididunt tempor nostrud labore aute non. Labore minim velit dolore laborum est est culpa
-                        veniam. </p>
+                    <!-- <p align="left"> Lorem Eiusmod velit proident labore in nulla.</p> -->
                     <p><strong>Technology Stack:</strong> GraphQL, Node, MongoDB, Express, React, Heroku,
                         Netlify,
                         Semantic UI
@@ -62,8 +58,7 @@
                                     src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
                             </a>
                         </p>
-                        <img
-                            src="https://api.netlify.com/api/v1/badges/8c40f4da-ff0b-4f54-8902-18aea6b47094/deploy-status" alt = "Earth Gems Deployment Status"/>
+                        <!-- <img src="https://api.netlify.com/api/v1/badges/8c40f4da-ff0b-4f54-8902-18aea6b47094/deploy-status" alt = "Earth Gems Deployment Status"/> -->
                         <p> Applied Stripe and Commerce api to bridge payments and merchandise functions for
                             e-commerce. </p>
                         <p><strong>Technology Stack:</strong> Stripe.js, Commerce.js, React, Material UI,
