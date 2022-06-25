@@ -25,11 +25,13 @@
                     <a href="https://imgur.com/Myu3VhC"><img src="https://i.imgur.com/Myu3VhC.gif" height="100%"
                             title="World Connect" alt="World Connect gif link could be broken " /></a>
                     <p>
-                        <a href="https://github.com/franklyncodes/" target="_blank">
-                            <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
+                        <a href="https://github.com/FranklynCodes/SocialMedia001" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github"
+                                alt="World Connect Repo" />
                         </a>
-                        <a href="https://github.com/franklyncodes/" target="_blank">
-                            <img src="https://img.shields.io/badge/-website-aqua?style=for-the-badge&color=800080" />
+                        <a href="https://worldconnection.netlify.app" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-aqua?style=for-the-badge&color=800080"
+                                alt="World Connect Website" />
                         </a>
                     </p>
                     <!-- <img src ="https://api.netlify.com/api/v1/badges/afe4370c-a7b6-4f00-8ddd-3aa23dff2bf5/deploy-status" alt ="Social Media" /> -->
@@ -50,12 +52,13 @@
                         <a href="https://imgur.com/knUCV4W"><img src="https://i.imgur.com/knUCV4W.gif" height="100%"
                                 title="Earth Gems" alt="Earth Gems gif link could be broken" /></a>
                         <p>
-                            <a href="https://github.com/franklyncodes/" target="_blank">
-                                <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
+                            <a href="https://github.com/FranklynCodes/ecommerece1" target="_blank">
+                                <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github"
+                                    alt="Earth Gems Repo" />
                             </a>
-                            <a href="https://github.com/franklyncodes/" target="_blank">
-                                <img
-                                    src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
+                            <a href="https://earthgems.netlify.app" target="_blank">
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080"
+                                    alt="Earth Gems Website" />
                             </a>
                         </p>
                         <!-- <img src="https://api.netlify.com/api/v1/badges/8c40f4da-ff0b-4f54-8902-18aea6b47094/deploy-status" alt = "Earth Gems Deployment Status"/> -->
@@ -72,12 +75,13 @@
                         <a href="https://imgur.com/6rRU4dZ" target="_blank"><img src="https://imgur.com/6rRU4dZ.gif"
                                 title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
                         <p>
-                            <a href="https://github.com/franklyncodes/" target="_blank">
-                                <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github" />
+                            <a href="https://github.com/FranklynCodes/ecommerece2" target="_blank">
+                                <img src="https://img.shields.io/badge/Repo-blue?style=for-the-badge&logo=github"
+                                    alt="Tech Center Repo" />
                             </a>
-                            <a href="https://github.com/franklyncodes/" target="_blank">
-                                <img
-                                    src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080" />
+                            <a href="https://techcenter-ecommerce.herokuapp.com" target="_blank">
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=800080"
+                                    alt="Tech Center Website" />
                             </a>
                         </p>
                         <p> Redux variation of an e-commerce website instead of using useContext. </p>
