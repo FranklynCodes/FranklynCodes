@@ -72,7 +72,7 @@
             <td width="100%">
                 <h3 align="center" color="green"><b><u>Tech Center</u></b></h2>
                     <div align="center">
-                        <a href="https://imgur.com/6rRU4dZ" target="_blank"><img src="https://imgur.com/6rRU4dZ.gif"
+                        <a href="https://imgur.com/70eHpCO" target="_blank"><img src="https://imgur.com/70eHpCO.gif"
                                 title="Tech Center" alt="Tech Center gif Link could be broken" /></a>
                         <p>
                             <a href="https://github.com/FranklynCodes/ecommerece2" target="_blank">
