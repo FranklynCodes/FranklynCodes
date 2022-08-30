@@ -4,7 +4,7 @@
     l am open to technology jobs.</p>
 <p>Currently studying for the <b>Microsoft Azure Data Fundamentals (DP-900)</b>, <b>Azure Developer Associate
         (AZ-204)</b> certificates and the <b>Apollo Graph Developer - Associate</b> certification.</p>
-<h2>Portfolio</h2> <b><a href="www.franklyncodes.com" alt="Franklyn Codes Website"><u>www.franklyncodes.com</u></a></b>
+<h2>Portfolio</h2> <b><a href="www.franklyncodes.com" alt="Franklyn Codes Website" target="_blank"><u>www.franklyncodes.com</u></a></b>
 <br /> <br />
 <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-resume-aqua?style=for-the-badge&color=0A66C2" alt="Resume - Google Drive" />
